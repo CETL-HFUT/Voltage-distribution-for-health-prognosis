@@ -4,9 +4,9 @@ This dataset is used to build the distribution of Vst and Ved.
 
 Data_for_DFA.mat
 
-|--V_slt_srt  The voltage at begining of the charge for 11375 bills.
+V_slt_srt: The voltage at begining of the charge for 11375 bills.
 
-|--V_slt_end  The voltage at end of the charge for 11375 bills.
+V_slt_end: The voltage at end of the charge for 11375 bills.
 
 If using this dataset in a publication, please cite: 
 
