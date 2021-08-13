@@ -10,8 +10,6 @@ V_slt_end: The voltage at end of the charge from 11375 bills.
 
 If using this dataset in a publication, please cite: 
 
-[1] Health Prognosis with Optimized Feature Selection for Lithium-ion Battery in Electric Vehicle Applications[J]. IEEE Transactions on Power Electronics, 2021.
+[1] Health Prognosis with Optimized Feature Selection for Lithium-ion Battery in Electric Vehicle Applications[J]. IEEE Transactions on Power Electronics, 2021, 36(11): 12646-55.
 
-[2] An online method for lithium-ion battery remaining useful life estimation using importance sampling and neural networks[J]. Applied energy, 2016, 173: 134-140.
-
-[3] A novel state of health estimation method of Li-ion battery using group method of data handling[J]. Journal of Power Sources, 2016, 327: 457-464.
+[2] Cloud-to-edge based state of health estimation method for Lithium-ion battery in distributed energy storage system[J]. Journal of Energy Storage, 2021, 41: 102974.
